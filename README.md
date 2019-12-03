@@ -1,4 +1,4 @@
 # TUC-SQL
 
-#### Database Schema
+#### Database Schema - ER diagram
 ![](./doc/img/db-schema.png)
